@@ -1,0 +1,493 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+
+ seen 64, trained: 256 K-images (4 Kilo-batches_64) 
+Enter Image Path: data/obj/img/frame0.png: Predicted in 91.437000 milli-seconds.
+Jerry: 98%	(left_x:  498   top_y:  173   width:  244   height:  198)
+Enter Image Path: data/obj/img/frame1.png: Predicted in 86.811000 milli-seconds.
+Enter Image Path: data/obj/img/frame10.png: Predicted in 81.826000 milli-seconds.
+Tom: 99%	(left_x:  433   top_y:  433   width:  270   height:  197)
+Enter Image Path: data/obj/img/frame100.png: Predicted in 74.350000 milli-seconds.
+Tom: 99%	(left_x:  397   top_y:  212   width:  208   height:  150)
+Enter Image Path: data/obj/img/frame101.png: Predicted in 74.422000 milli-seconds.
+Tom: 100%	(left_x:  418   top_y:  195   width:  191   height:  145)
+Enter Image Path: data/obj/img/frame102.png: Predicted in 72.401000 milli-seconds.
+Enter Image Path: data/obj/img/frame103.png: Predicted in 68.169000 milli-seconds.
+Enter Image Path: data/obj/img/frame104.png: Predicted in 67.952000 milli-seconds.
+Enter Image Path: data/obj/img/frame105.png: Predicted in 62.679000 milli-seconds.
+Enter Image Path: data/obj/img/frame106.png: Predicted in 62.047000 milli-seconds.
+Enter Image Path: data/obj/img/frame107.png: Predicted in 61.966000 milli-seconds.
+Enter Image Path: data/obj/img/frame108.png: Predicted in 63.264000 milli-seconds.
+Enter Image Path: data/obj/img/frame109.png: Predicted in 63.521000 milli-seconds.
+Enter Image Path: data/obj/img/frame11.png: Predicted in 64.865000 milli-seconds.
+Enter Image Path: data/obj/img/frame110.png: Predicted in 65.064000 milli-seconds.
+Enter Image Path: data/obj/img/frame111.png: Predicted in 64.796000 milli-seconds.
+Enter Image Path: data/obj/img/frame112.png: Predicted in 65.397000 milli-seconds.
+Enter Image Path: data/obj/img/frame113.png: Predicted in 64.567000 milli-seconds.
+Enter Image Path: data/obj/img/frame114.png: Predicted in 64.605000 milli-seconds.
+Enter Image Path: data/obj/img/frame115.png: Predicted in 65.565000 milli-seconds.
+Enter Image Path: data/obj/img/frame116.png: Predicted in 65.006000 milli-seconds.
+Enter Image Path: data/obj/img/frame117.png: Predicted in 67.162000 milli-seconds.
+Enter Image Path: data/obj/img/frame118.png: Predicted in 65.135000 milli-seconds.
+Enter Image Path: data/obj/img/frame119.png: Predicted in 65.136000 milli-seconds.
+Enter Image Path: data/obj/img/frame12.png: Predicted in 64.899000 milli-seconds.
+Tom: 100%	(left_x:  465   top_y:   71   width:  362   height:  261)
+Enter Image Path: data/obj/img/frame120.png: Predicted in 60.812000 milli-seconds.
+Enter Image Path: data/obj/img/frame121.png: Predicted in 61.145000 milli-seconds.
+Enter Image Path: data/obj/img/frame122.png: Predicted in 61.020000 milli-seconds.
+Tom: 100%	(left_x:  645   top_y:  150   width:  214   height:  111)
+Enter Image Path: data/obj/img/frame123.png: Predicted in 60.939000 milli-seconds.
+Tom: 100%	(left_x:  643   top_y:  147   width:  218   height:  118)
+Enter Image Path: data/obj/img/frame124.png: Predicted in 61.149000 milli-seconds.
+Tom: 100%	(left_x:  625   top_y:  143   width:  259   height:  124)
+Enter Image Path: data/obj/img/frame125.png: Predicted in 60.919000 milli-seconds.
+Tom: 99%	(left_x:  633   top_y:  148   width:  235   height:  116)
+Enter Image Path: data/obj/img/frame126.png: Predicted in 61.148000 milli-seconds.
+Tom: 96%	(left_x:  621   top_y:  144   width:  245   height:  119)
+Enter Image Path: data/obj/img/frame127.png: Predicted in 61.402000 milli-seconds.
+Tom: 96%	(left_x:  608   top_y:  157   width:  247   height:  110)
+Enter Image Path: data/obj/img/frame128.png: Predicted in 61.244000 milli-seconds.
+Enter Image Path: data/obj/img/frame129.png: Predicted in 61.497000 milli-seconds.
+Tom: 100%	(left_x:  642   top_y:  221   width:  166   height:  135)
+Enter Image Path: data/obj/img/frame13.png: Predicted in 61.652000 milli-seconds.
+Tom: 100%	(left_x:   28   top_y:   75   width:  275   height:  310)
+Enter Image Path: data/obj/img/frame130.png: Predicted in 61.273000 milli-seconds.
+Tom: 99%	(left_x:  459   top_y:   97   width:  183   height:   95)
+Enter Image Path: data/obj/img/frame131.png: Predicted in 61.215000 milli-seconds.
+Tom: 100%	(left_x:  459   top_y:   87   width:  195   height:  114)
+Enter Image Path: data/obj/img/frame132.png: Predicted in 61.177000 milli-seconds.
+Tom: 99%	(left_x:  316   top_y:  151   width:  181   height:  117)
+Enter Image Path: data/obj/img/frame133.png: Predicted in 61.240000 milli-seconds.
+Tom: 99%	(left_x:  458   top_y:   85   width:  207   height:  117)
+Enter Image Path: data/obj/img/frame134.png: Predicted in 61.150000 milli-seconds.
+Tom: 98%	(left_x:  765   top_y:  260   width:  166   height:   98)
+Enter Image Path: data/obj/img/frame135.png: Predicted in 60.758000 milli-seconds.
+Tom: 77%	(left_x:  785   top_y:  280   width:  196   height:  112)
+Enter Image Path: data/obj/img/frame136.png: Predicted in 61.027000 milli-seconds.
+Enter Image Path: data/obj/img/frame137.png: Predicted in 60.839000 milli-seconds.
+Enter Image Path: data/obj/img/frame138.png: Predicted in 60.988000 milli-seconds.
+Enter Image Path: data/obj/img/frame139.png: Predicted in 61.431000 milli-seconds.
+Jerry: 100%	(left_x:  562   top_y:  262   width:  124   height:  112)
+Enter Image Path: data/obj/img/frame14.png: Predicted in 61.596000 milli-seconds.
+Tom: 97%	(left_x:  111   top_y:   78   width:  324   height:  258)
+Jerry: 100%	(left_x:  860   top_y:  187   width:  202   height:  111)
+Enter Image Path: data/obj/img/frame140.png: Predicted in 61.563000 milli-seconds.
+Jerry: 100%	(left_x:  553   top_y:  259   width:  123   height:  119)
+Enter Image Path: data/obj/img/frame141.png: Predicted in 60.155000 milli-seconds.
+Enter Image Path: data/obj/img/frame142.png: Predicted in 60.986000 milli-seconds.
+Tom: 98%	(left_x:  600   top_y:   78   width:  208   height:  117)
+Enter Image Path: data/obj/img/frame143.png: Predicted in 60.687000 milli-seconds.
+Enter Image Path: data/obj/img/frame144.png: Predicted in 61.041000 milli-seconds.
+Tom: 99%	(left_x:  540   top_y:  341   width:  130   height:  125)
+Enter Image Path: data/obj/img/frame145.png: Predicted in 62.270000 milli-seconds.
+Enter Image Path: data/obj/img/frame146.png: Predicted in 61.296000 milli-seconds.
+Tom: 98%	(left_x:  203   top_y:  348   width:  113   height:  105)
+Enter Image Path: data/obj/img/frame147.png: Predicted in 60.785000 milli-seconds.
+Tom: 85%	(left_x:  738   top_y:  162   width:  109   height:   82)
+Enter Image Path: data/obj/img/frame148.png: Predicted in 61.337000 milli-seconds.
+Tom: 98%	(left_x:  109   top_y:  232   width:  108   height:   49)
+Enter Image Path: data/obj/img/frame149.png: Predicted in 60.658000 milli-seconds.
+Tom: 100%	(left_x:  397   top_y:   86   width:  137   height:   75)
+Enter Image Path: data/obj/img/frame15.png: Predicted in 60.761000 milli-seconds.
+Tom: 100%	(left_x:  148   top_y:   29   width:  433   height:  232)
+Jerry: 100%	(left_x:  873   top_y:  178   width:  203   height:  121)
+Enter Image Path: data/obj/img/frame150.png: Predicted in 61.021000 milli-seconds.
+Tom: 97%	(left_x:   91   top_y:  275   width:  106   height:   92)
+Enter Image Path: data/obj/img/frame151.png: Predicted in 61.253000 milli-seconds.
+Tom: 99%	(left_x:  594   top_y:  259   width:  113   height:   80)
+Enter Image Path: data/obj/img/frame152.png: Predicted in 61.453000 milli-seconds.
+Enter Image Path: data/obj/img/frame153.png: Predicted in 60.681000 milli-seconds.
+Tom: 100%	(left_x:  367   top_y:  135   width:  180   height:  194)
+Enter Image Path: data/obj/img/frame154.png: Predicted in 61.088000 milli-seconds.
+Tom: 100%	(left_x:  381   top_y:  148   width:  173   height:  176)
+Enter Image Path: data/obj/img/frame155.png: Predicted in 60.565000 milli-seconds.
+Enter Image Path: data/obj/img/frame156.png: Predicted in 61.314000 milli-seconds.
+Jerry: 98%	(left_x:  605   top_y:  123   width:   96   height:   54)
+Enter Image Path: data/obj/img/frame157.png: Predicted in 61.241000 milli-seconds.
+Jerry: 99%	(left_x:  357   top_y:  227   width:  114   height:   80)
+Enter Image Path: data/obj/img/frame158.png: Predicted in 61.482000 milli-seconds.
+Enter Image Path: data/obj/img/frame159.png: Predicted in 60.489000 milli-seconds.
+Enter Image Path: data/obj/img/frame16.png: Predicted in 61.492000 milli-seconds.
+Tom: 100%	(left_x:   19   top_y:    1   width:  313   height:  195)
+Enter Image Path: data/obj/img/frame160.png: Predicted in 60.889000 milli-seconds.
+Jerry: 86%	(left_x:  342   top_y:  197   width:  208   height:  166)
+Enter Image Path: data/obj/img/frame161.png: Predicted in 61.291000 milli-seconds.
+Jerry: 87%	(left_x:  324   top_y:  192   width:  231   height:  172)
+Enter Image Path: data/obj/img/frame162.png: Predicted in 61.346000 milli-seconds.
+Jerry: 90%	(left_x:  324   top_y:  193   width:  232   height:  172)
+Enter Image Path: data/obj/img/frame163.png: Predicted in 61.064000 milli-seconds.
+Jerry: 100%	(left_x:  354   top_y:  204   width:  210   height:  158)
+Enter Image Path: data/obj/img/frame164.png: Predicted in 60.970000 milli-seconds.
+Jerry: 100%	(left_x:  355   top_y:  207   width:  209   height:  154)
+Enter Image Path: data/obj/img/frame165.png: Predicted in 60.827000 milli-seconds.
+Jerry: 100%	(left_x:  355   top_y:  207   width:  209   height:  155)
+Enter Image Path: data/obj/img/frame166.png: Predicted in 61.552000 milli-seconds.
+Jerry: 95%	(left_x:  338   top_y:  198   width:  242   height:  164)
+Enter Image Path: data/obj/img/frame167.png: Predicted in 60.941000 milli-seconds.
+Jerry: 98%	(left_x:  375   top_y:  233   width:  268   height:  155)
+Enter Image Path: data/obj/img/frame168.png: Predicted in 61.005000 milli-seconds.
+Jerry: 100%	(left_x:  420   top_y:  267   width:  202   height:  144)
+Enter Image Path: data/obj/img/frame169.png: Predicted in 61.212000 milli-seconds.
+Jerry: 100%	(left_x:  393   top_y:  273   width:  215   height:  148)
+Enter Image Path: data/obj/img/frame17.png: Predicted in 61.630000 milli-seconds.
+Jerry: 99%	(left_x:  873   top_y:  190   width:  174   height:  121)
+Enter Image Path: data/obj/img/frame170.png: Predicted in 61.274000 milli-seconds.
+Jerry: 100%	(left_x:  389   top_y:  267   width:  218   height:  154)
+Enter Image Path: data/obj/img/frame171.png: Predicted in 61.135000 milli-seconds.
+Jerry: 100%	(left_x:  375   top_y:  261   width:  218   height:  156)
+Enter Image Path: data/obj/img/frame172.png: Predicted in 61.393000 milli-seconds.
+Jerry: 98%	(left_x:  382   top_y:  273   width:  215   height:  131)
+Enter Image Path: data/obj/img/frame173.png: Predicted in 60.932000 milli-seconds.
+Jerry: 99%	(left_x:  486   top_y:  288   width:  280   height:  129)
+Enter Image Path: data/obj/img/frame174.png: Predicted in 61.426000 milli-seconds.
+Tom: 100%	(left_x:  589   top_y:  239   width:  179   height:  140)
+Enter Image Path: data/obj/img/frame175.png: Predicted in 61.137000 milli-seconds.
+Enter Image Path: data/obj/img/frame176.png: Predicted in 61.265000 milli-seconds.
+Enter Image Path: data/obj/img/frame177.png: Predicted in 62.135000 milli-seconds.
+Enter Image Path: data/obj/img/frame178.png: Predicted in 63.063000 milli-seconds.
+Jerry: 100%	(left_x:  542   top_y:  189   width:  207   height:  164)
+Enter Image Path: data/obj/img/frame179.png: Predicted in 62.259000 milli-seconds.
+Jerry: 100%	(left_x:  552   top_y:  194   width:  185   height:  126)
+Enter Image Path: data/obj/img/frame18.png: Predicted in 61.586000 milli-seconds.
+Tom: 92%	(left_x:  241   top_y:  411   width:  117   height:  100)
+Enter Image Path: data/obj/img/frame180.png: Predicted in 60.791000 milli-seconds.
+Jerry: 99%	(left_x:  555   top_y:  185   width:  164   height:  136)
+Enter Image Path: data/obj/img/frame181.png: Predicted in 61.084000 milli-seconds.
+Jerry: 100%	(left_x:  527   top_y:  193   width:  219   height:  134)
+Enter Image Path: data/obj/img/frame182.png: Predicted in 61.684000 milli-seconds.
+Jerry: 100%	(left_x:  616   top_y:  180   width:  234   height:  157)
+Enter Image Path: data/obj/img/frame183.png: Predicted in 60.703000 milli-seconds.
+Jerry: 98%	(left_x:  618   top_y:  134   width:  222   height:  156)
+Enter Image Path: data/obj/img/frame184.png: Predicted in 61.275000 milli-seconds.
+Jerry: 100%	(left_x:  653   top_y:  130   width:  218   height:  171)
+Enter Image Path: data/obj/img/frame185.png: Predicted in 61.399000 milli-seconds.
+Enter Image Path: data/obj/img/frame186.png: Predicted in 60.610000 milli-seconds.
+Enter Image Path: data/obj/img/frame187.png: Predicted in 61.954000 milli-seconds.
+Enter Image Path: data/obj/img/frame188.png: Predicted in 63.922000 milli-seconds.
+Enter Image Path: data/obj/img/frame189.png: Predicted in 65.170000 milli-seconds.
+Jerry: 75%	(left_x:  611   top_y:  455   width:   89   height:   51)
+Enter Image Path: data/obj/img/frame19.png: Predicted in 64.234000 milli-seconds.
+Tom: 98%	(left_x:  447   top_y:  144   width:  257   height:  190)
+Enter Image Path: data/obj/img/frame190.png: Predicted in 61.089000 milli-seconds.
+Jerry: 82%	(left_x:  604   top_y:    5   width:  207   height:   42)
+Enter Image Path: data/obj/img/frame191.png: Predicted in 61.458000 milli-seconds.
+Jerry: 98%	(left_x:  422   top_y:  222   width:  174   height:  117)
+Enter Image Path: data/obj/img/frame192.png: Predicted in 61.116000 milli-seconds.
+Jerry: 98%	(left_x:  510   top_y:   80   width:  203   height:  109)
+Enter Image Path: data/obj/img/frame193.png: Predicted in 60.760000 milli-seconds.
+Jerry: 76%	(left_x:  678   top_y:  497   width:  128   height:  153)
+Enter Image Path: data/obj/img/frame194.png: Predicted in 61.279000 milli-seconds.
+Enter Image Path: data/obj/img/frame195.png: Predicted in 60.840000 milli-seconds.
+Enter Image Path: data/obj/img/frame196.png: Predicted in 61.604000 milli-seconds.
+Enter Image Path: data/obj/img/frame197.png: Predicted in 62.092000 milli-seconds.
+Enter Image Path: data/obj/img/frame198.png: Predicted in 64.791000 milli-seconds.
+Enter Image Path: data/obj/img/frame199.png: Predicted in 65.375000 milli-seconds.
+Enter Image Path: data/obj/img/frame2.png: Predicted in 66.411000 milli-seconds.
+Tom: 94%	(left_x:  620   top_y:   18   width:  351   height:  286)
+Enter Image Path: data/obj/img/frame20.png: Predicted in 63.771000 milli-seconds.
+Tom: 100%	(left_x:  584   top_y:  149   width:  252   height:  217)
+Enter Image Path: data/obj/img/frame200.png: Predicted in 63.876000 milli-seconds.
+Tom: 95%	(left_x:  450   top_y:  133   width:  109   height:  138)
+Enter Image Path: data/obj/img/frame201.png: Predicted in 64.221000 milli-seconds.
+Tom: 100%	(left_x:  448   top_y:  105   width:  241   height:  161)
+Enter Image Path: data/obj/img/frame202.png: Predicted in 64.073000 milli-seconds.
+Tom: 100%	(left_x:  452   top_y:  107   width:  235   height:  156)
+Enter Image Path: data/obj/img/frame203.png: Predicted in 63.375000 milli-seconds.
+Tom: 100%	(left_x:  455   top_y:  106   width:  233   height:  160)
+Enter Image Path: data/obj/img/frame204.png: Predicted in 63.974000 milli-seconds.
+Tom: 100%	(left_x:  451   top_y:   99   width:  234   height:  164)
+Enter Image Path: data/obj/img/frame205.png: Predicted in 65.673000 milli-seconds.
+Tom: 98%	(left_x:  463   top_y:  125   width:  184   height:  145)
+Enter Image Path: data/obj/img/frame206.png: Predicted in 61.225000 milli-seconds.
+Tom: 97%	(left_x:  500   top_y:  107   width:   89   height:   86)
+Enter Image Path: data/obj/img/frame207.png: Predicted in 60.856000 milli-seconds.
+Tom: 98%	(left_x:  498   top_y:  110   width:   93   height:   86)
+Enter Image Path: data/obj/img/frame208.png: Predicted in 61.406000 milli-seconds.
+Jerry: 99%	(left_x:  272   top_y:  303   width:  213   height:  106)
+Enter Image Path: data/obj/img/frame209.png: Predicted in 61.677000 milli-seconds.
+Jerry: 100%	(left_x:  279   top_y:  302   width:  195   height:  109)
+Enter Image Path: data/obj/img/frame21.png: Predicted in 61.094000 milli-seconds.
+Enter Image Path: data/obj/img/frame210.png: Predicted in 60.817000 milli-seconds.
+Jerry: 99%	(left_x:  293   top_y:  292   width:  186   height:  114)
+Enter Image Path: data/obj/img/frame211.png: Predicted in 61.237000 milli-seconds.
+Jerry: 99%	(left_x:  301   top_y:  298   width:  173   height:  112)
+Enter Image Path: data/obj/img/frame212.png: Predicted in 61.144000 milli-seconds.
+Jerry: 100%	(left_x:  248   top_y:  292   width:  224   height:  112)
+Enter Image Path: data/obj/img/frame213.png: Predicted in 61.460000 milli-seconds.
+Enter Image Path: data/obj/img/frame214.png: Predicted in 60.867000 milli-seconds.
+Enter Image Path: data/obj/img/frame215.png: Predicted in 62.536000 milli-seconds.
+Enter Image Path: data/obj/img/frame216.png: Predicted in 63.102000 milli-seconds.
+Enter Image Path: data/obj/img/frame217.png: Predicted in 64.804000 milli-seconds.
+Enter Image Path: data/obj/img/frame218.png: Predicted in 66.208000 milli-seconds.
+Enter Image Path: data/obj/img/frame219.png: Predicted in 66.610000 milli-seconds.
+Enter Image Path: data/obj/img/frame22.png: Predicted in 66.692000 milli-seconds.
+Enter Image Path: data/obj/img/frame220.png: Predicted in 66.836000 milli-seconds.
+Enter Image Path: data/obj/img/frame221.png: Predicted in 66.327000 milli-seconds.
+Enter Image Path: data/obj/img/frame222.png: Predicted in 66.182000 milli-seconds.
+Enter Image Path: data/obj/img/frame223.png: Predicted in 65.344000 milli-seconds.
+Enter Image Path: data/obj/img/frame224.png: Predicted in 64.921000 milli-seconds.
+Enter Image Path: data/obj/img/frame225.png: Predicted in 65.501000 milli-seconds.
+Enter Image Path: data/obj/img/frame226.png: Predicted in 65.710000 milli-seconds.
+Enter Image Path: data/obj/img/frame227.png: Predicted in 64.995000 milli-seconds.
+Tom: 94%	(left_x:  441   top_y:  264   width:  211   height:  126)
+Enter Image Path: data/obj/img/frame228.png: Predicted in 61.832000 milli-seconds.
+Tom: 92%	(left_x:  438   top_y:  263   width:  216   height:  127)
+Enter Image Path: data/obj/img/frame229.png: Predicted in 61.711000 milli-seconds.
+Enter Image Path: data/obj/img/frame23.png: Predicted in 62.187000 milli-seconds.
+Tom: 94%	(left_x:  324   top_y:  101   width:  321   height:  229)
+Enter Image Path: data/obj/img/frame230.png: Predicted in 61.142000 milli-seconds.
+Enter Image Path: data/obj/img/frame231.png: Predicted in 61.204000 milli-seconds.
+Tom: 99%	(left_x:  403   top_y:  235   width:  253   height:  176)
+Enter Image Path: data/obj/img/frame232.png: Predicted in 61.320000 milli-seconds.
+Tom: 100%	(left_x:  405   top_y:  228   width:  244   height:  182)
+Enter Image Path: data/obj/img/frame233.png: Predicted in 61.210000 milli-seconds.
+Tom: 94%	(left_x:  439   top_y:  239   width:  200   height:  175)
+Jerry: 98%	(left_x:  918   top_y:  229   width:   51   height:   53)
+Enter Image Path: data/obj/img/frame234.png: Predicted in 61.290000 milli-seconds.
+Tom: 100%	(left_x:  471   top_y:  239   width:  171   height:  164)
+Jerry: 83%	(left_x:  912   top_y:  203   width:   62   height:   63)
+Enter Image Path: data/obj/img/frame235.png: Predicted in 60.900000 milli-seconds.
+Tom: 100%	(left_x:  521   top_y:  215   width:  194   height:   91)
+Enter Image Path: data/obj/img/frame236.png: Predicted in 60.859000 milli-seconds.
+Tom: 99%	(left_x:  240   top_y:  160   width:  204   height:  134)
+Enter Image Path: data/obj/img/frame237.png: Predicted in 61.425000 milli-seconds.
+Tom: 99%	(left_x:  461   top_y:  255   width:  172   height:  171)
+Enter Image Path: data/obj/img/frame238.png: Predicted in 60.906000 milli-seconds.
+Tom: 98%	(left_x:  459   top_y:  249   width:  185   height:  159)
+Enter Image Path: data/obj/img/frame239.png: Predicted in 60.692000 milli-seconds.
+Tom: 94%	(left_x:  601   top_y:  296   width:  186   height:   93)
+Enter Image Path: data/obj/img/frame24.png: Predicted in 60.889000 milli-seconds.
+Tom: 94%	(left_x:  146   top_y:  204   width:  264   height:  112)
+Enter Image Path: data/obj/img/frame240.png: Predicted in 61.223000 milli-seconds.
+Tom: 99%	(left_x:  466   top_y:  247   width:  173   height:  159)
+Enter Image Path: data/obj/img/frame241.png: Predicted in 61.332000 milli-seconds.
+Tom: 100%	(left_x:  463   top_y:  259   width:  173   height:  166)
+Jerry: 38%	(left_x:  963   top_y:  135   width:   50   height:   39)
+Enter Image Path: data/obj/img/frame242.png: Predicted in 61.245000 milli-seconds.
+Tom: 98%	(left_x:  833   top_y:  167   width:  169   height:  157)
+Enter Image Path: data/obj/img/frame243.png: Predicted in 61.120000 milli-seconds.
+Tom: 99%	(left_x:  706   top_y:  193   width:  220   height:  175)
+Enter Image Path: data/obj/img/frame244.png: Predicted in 61.147000 milli-seconds.
+Jerry: 99%	(left_x:  632   top_y:  326   width:  177   height:  119)
+Enter Image Path: data/obj/img/frame245.png: Predicted in 61.485000 milli-seconds.
+Jerry: 98%	(left_x:  630   top_y:  326   width:  181   height:  119)
+Enter Image Path: data/obj/img/frame246.png: Predicted in 61.240000 milli-seconds.
+Jerry: 100%	(left_x:  587   top_y:  325   width:  185   height:  133)
+Enter Image Path: data/obj/img/frame247.png: Predicted in 61.081000 milli-seconds.
+Enter Image Path: data/obj/img/frame248.png: Predicted in 61.710000 milli-seconds.
+Enter Image Path: data/obj/img/frame249.png: Predicted in 61.638000 milli-seconds.
+Enter Image Path: data/obj/img/frame25.png: Predicted in 62.337000 milli-seconds.
+Tom: 97%	(left_x:  277   top_y:  223   width:  287   height:  213)
+Enter Image Path: data/obj/img/frame250.png: Predicted in 63.217000 milli-seconds.
+Enter Image Path: data/obj/img/frame251.png: Predicted in 66.252000 milli-seconds.
+Jerry: 97%	(left_x:  575   top_y:  232   width:  158   height:  132)
+Enter Image Path: data/obj/img/frame252.png: Predicted in 62.500000 milli-seconds.
+Jerry: 100%	(left_x:  530   top_y:  335   width:  178   height:  114)
+Enter Image Path: data/obj/img/frame253.png: Predicted in 62.398000 milli-seconds.
+Jerry: 100%	(left_x:  528   top_y:  335   width:  173   height:  111)
+Enter Image Path: data/obj/img/frame254.png: Predicted in 61.810000 milli-seconds.
+Jerry: 98%	(left_x:  529   top_y:  326   width:  140   height:   94)
+Enter Image Path: data/obj/img/frame255.png: Predicted in 61.472000 milli-seconds.
+Tom: 100%	(left_x:  863   top_y:  215   width:  179   height:  140)
+Enter Image Path: data/obj/img/frame256.png: Predicted in 61.629000 milli-seconds.
+Tom: 97%	(left_x:  902   top_y:  217   width:  156   height:  104)
+Enter Image Path: data/obj/img/frame257.png: Predicted in 61.363000 milli-seconds.
+Enter Image Path: data/obj/img/frame258.png: Predicted in 60.993000 milli-seconds.
+Tom: 98%	(left_x:   16   top_y:  194   width:  122   height:  133)
+Enter Image Path: data/obj/img/frame259.png: Predicted in 61.301000 milli-seconds.
+Tom: 100%	(left_x: 1086   top_y:  220   width:  150   height:  140)
+Enter Image Path: data/obj/img/frame26.png: Predicted in 61.529000 milli-seconds.
+Tom: 100%	(left_x:  459   top_y:   82   width:  296   height:  197)
+Enter Image Path: data/obj/img/frame260.png: Predicted in 61.542000 milli-seconds.
+Enter Image Path: data/obj/img/frame261.png: Predicted in 60.457000 milli-seconds.
+Tom: 99%	(left_x:  658   top_y:  224   width:  188   height:  150)
+Enter Image Path: data/obj/img/frame262.png: Predicted in 61.347000 milli-seconds.
+Enter Image Path: data/obj/img/frame263.png: Predicted in 61.220000 milli-seconds.
+Enter Image Path: data/obj/img/frame264.png: Predicted in 61.733000 milli-seconds.
+Enter Image Path: data/obj/img/frame265.png: Predicted in 63.197000 milli-seconds.
+Enter Image Path: data/obj/img/frame266.png: Predicted in 61.467000 milli-seconds.
+Tom: 94%	(left_x:  295   top_y:  185   width:  168   height:  125)
+Enter Image Path: data/obj/img/frame267.png: Predicted in 61.468000 milli-seconds.
+Enter Image Path: data/obj/img/frame268.png: Predicted in 61.604000 milli-seconds.
+Enter Image Path: data/obj/img/frame269.png: Predicted in 62.265000 milli-seconds.
+Enter Image Path: data/obj/img/frame27.png: Predicted in 62.489000 milli-seconds.
+Tom: 100%	(left_x:  466   top_y:  121   width:  283   height:  159)
+Enter Image Path: data/obj/img/frame270.png: Predicted in 62.578000 milli-seconds.
+Jerry: 98%	(left_x:  770   top_y:  310   width:  169   height:  109)
+Enter Image Path: data/obj/img/frame271.png: Predicted in 62.572000 milli-seconds.
+Jerry: 99%	(left_x:  940   top_y:  379   width:  211   height:  104)
+Enter Image Path: data/obj/img/frame272.png: Predicted in 62.320000 milli-seconds.
+Enter Image Path: data/obj/img/frame273.png: Predicted in 62.030000 milli-seconds.
+Enter Image Path: data/obj/img/frame274.png: Predicted in 62.526000 milli-seconds.
+Tom: 91%	(left_x:  594   top_y:  173   width:  133   height:  125)
+Enter Image Path: data/obj/img/frame275.png: Predicted in 60.861000 milli-seconds.
+Enter Image Path: data/obj/img/frame276.png: Predicted in 61.327000 milli-seconds.
+Enter Image Path: data/obj/img/frame277.png: Predicted in 62.461000 milli-seconds.
+Tom: 96%	(left_x:  648   top_y:  207   width:  160   height:  133)
+Enter Image Path: data/obj/img/frame278.png: Predicted in 62.676000 milli-seconds.
+Tom: 100%	(left_x:  413   top_y:  215   width:  128   height:  106)
+Enter Image Path: data/obj/img/frame279.png: Predicted in 62.301000 milli-seconds.
+Enter Image Path: data/obj/img/frame28.png: Predicted in 61.356000 milli-seconds.
+Tom: 99%	(left_x:  702   top_y:   73   width:  265   height:  207)
+Enter Image Path: data/obj/img/frame280.png: Predicted in 61.085000 milli-seconds.
+Enter Image Path: data/obj/img/frame281.png: Predicted in 61.384000 milli-seconds.
+Enter Image Path: data/obj/img/frame282.png: Predicted in 61.601000 milli-seconds.
+Enter Image Path: data/obj/img/frame283.png: Predicted in 62.970000 milli-seconds.
+Enter Image Path: data/obj/img/frame284.png: Predicted in 65.744000 milli-seconds.
+Enter Image Path: data/obj/img/frame285.png: Predicted in 66.352000 milli-seconds.
+Enter Image Path: data/obj/img/frame286.png: Predicted in 66.670000 milli-seconds.
+Enter Image Path: data/obj/img/frame287.png: Predicted in 65.842000 milli-seconds.
+Enter Image Path: data/obj/img/frame288.png: Predicted in 65.883000 milli-seconds.
+Enter Image Path: data/obj/img/frame289.png: Predicted in 66.657000 milli-seconds.
+Enter Image Path: data/obj/img/frame29.png: Predicted in 66.130000 milli-seconds.
+Tom: 100%	(left_x:  316   top_y:   75   width:  287   height:  131)
+Enter Image Path: data/obj/img/frame290.png: Predicted in 66.052000 milli-seconds.
+Enter Image Path: data/obj/img/frame291.png: Predicted in 64.346000 milli-seconds.
+Enter Image Path: data/obj/img/frame292.png: Predicted in 60.749000 milli-seconds.
+Enter Image Path: data/obj/img/frame293.png: Predicted in 61.288000 milli-seconds.
+Enter Image Path: data/obj/img/frame294.png: Predicted in 62.525000 milli-seconds.
+Enter Image Path: data/obj/img/frame295.png: Predicted in 64.710000 milli-seconds.
+Enter Image Path: data/obj/img/frame296.png: Predicted in 66.677000 milli-seconds.
+Enter Image Path: data/obj/img/frame297.png: Predicted in 65.799000 milli-seconds.
+Enter Image Path: data/obj/img/frame3.png: Predicted in 65.227000 milli-seconds.
+Tom: 100%	(left_x:  678   top_y:  280   width:  297   height:  178)
+Enter Image Path: data/obj/img/frame30.png: Predicted in 62.865000 milli-seconds.
+Tom: 98%	(left_x:  561   top_y:   30   width:  271   height:  174)
+Enter Image Path: data/obj/img/frame31.png: Predicted in 62.673000 milli-seconds.
+Tom: 95%	(left_x:  554   top_y:   34   width:  280   height:  176)
+Enter Image Path: data/obj/img/frame32.png: Predicted in 62.165000 milli-seconds.
+Enter Image Path: data/obj/img/frame33.png: Predicted in 60.013000 milli-seconds.
+Enter Image Path: data/obj/img/frame34.png: Predicted in 60.469000 milli-seconds.
+Tom: 100%	(left_x:  764   top_y:  119   width:  204   height:  186)
+Enter Image Path: data/obj/img/frame35.png: Predicted in 60.288000 milli-seconds.
+Tom: 100%	(left_x:  484   top_y:   85   width:  283   height:  207)
+Enter Image Path: data/obj/img/frame36.png: Predicted in 61.572000 milli-seconds.
+Tom: 100%	(left_x:  390   top_y:   97   width:  291   height:  195)
+Enter Image Path: data/obj/img/frame37.png: Predicted in 61.280000 milli-seconds.
+Tom: 100%	(left_x:  455   top_y:   87   width:  324   height:  199)
+Enter Image Path: data/obj/img/frame38.png: Predicted in 60.716000 milli-seconds.
+Enter Image Path: data/obj/img/frame39.png: Predicted in 61.092000 milli-seconds.
+Enter Image Path: data/obj/img/frame4.png: Predicted in 61.434000 milli-seconds.
+Tom: 100%	(left_x:  480   top_y:   67   width:  331   height:  209)
+Enter Image Path: data/obj/img/frame40.png: Predicted in 60.722000 milli-seconds.
+Enter Image Path: data/obj/img/frame41.png: Predicted in 61.759000 milli-seconds.
+Tom: 94%	(left_x:  493   top_y:  273   width:  279   height:  127)
+Enter Image Path: data/obj/img/frame42.png: Predicted in 61.707000 milli-seconds.
+Tom: 94%	(left_x:  780   top_y:  118   width:  235   height:  157)
+Enter Image Path: data/obj/img/frame43.png: Predicted in 61.100000 milli-seconds.
+Tom: 100%	(left_x:  912   top_y:  129   width:  206   height:  145)
+Enter Image Path: data/obj/img/frame44.png: Predicted in 61.132000 milli-seconds.
+Tom: 100%	(left_x:  867   top_y:  143   width:  206   height:  141)
+Enter Image Path: data/obj/img/frame45.png: Predicted in 61.145000 milli-seconds.
+Tom: 100%	(left_x:  666   top_y:  203   width:  210   height:  153)
+Enter Image Path: data/obj/img/frame46.png: Predicted in 60.342000 milli-seconds.
+Tom: 100%	(left_x:  886   top_y:  221   width:  249   height:  199)
+Enter Image Path: data/obj/img/frame47.png: Predicted in 60.336000 milli-seconds.
+Tom: 99%	(left_x:  229   top_y:  540   width:  203   height:  111)
+Enter Image Path: data/obj/img/frame48.png: Predicted in 60.541000 milli-seconds.
+Tom: 93%	(left_x:  249   top_y:  509   width:  182   height:  138)
+Enter Image Path: data/obj/img/frame49.png: Predicted in 61.441000 milli-seconds.
+Tom: 96%	(left_x:  250   top_y:  513   width:  181   height:  129)
+Enter Image Path: data/obj/img/frame5.png: Predicted in 60.764000 milli-seconds.
+Tom: 99%	(left_x:  398   top_y:  148   width:  264   height:  232)
+Enter Image Path: data/obj/img/frame50.png: Predicted in 61.796000 milli-seconds.
+Tom: 97%	(left_x:   70   top_y:  642   width:  223   height:   70)
+Enter Image Path: data/obj/img/frame51.png: Predicted in 60.588000 milli-seconds.
+Tom: 97%	(left_x:   68   top_y:  361   width:  296   height:  175)
+Enter Image Path: data/obj/img/frame52.png: Predicted in 61.548000 milli-seconds.
+Tom: 100%	(left_x:   14   top_y:  291   width:  251   height:  222)
+Enter Image Path: data/obj/img/frame53.png: Predicted in 61.112000 milli-seconds.
+Jerry: 99%	(left_x:  664   top_y:  227   width:  190   height:  107)
+Enter Image Path: data/obj/img/frame54.png: Predicted in 61.165000 milli-seconds.
+Enter Image Path: data/obj/img/frame55.png: Predicted in 60.787000 milli-seconds.
+Enter Image Path: data/obj/img/frame56.png: Predicted in 61.648000 milli-seconds.
+Jerry: 99%	(left_x:  700   top_y:  364   width:  206   height:  162)
+Enter Image Path: data/obj/img/frame57.png: Predicted in 61.231000 milli-seconds.
+Tom: 96%	(left_x:  764   top_y:  212   width:  238   height:  144)
+Enter Image Path: data/obj/img/frame58.png: Predicted in 61.241000 milli-seconds.
+Tom: 92%	(left_x:  769   top_y:  208   width:  227   height:  143)
+Enter Image Path: data/obj/img/frame59.png: Predicted in 61.000000 milli-seconds.
+Tom: 98%	(left_x:  678   top_y:  215   width:  213   height:  133)
+Enter Image Path: data/obj/img/frame6.png: Predicted in 61.047000 milli-seconds.
+Tom: 92%	(left_x:  570   top_y:  320   width:  170   height:  141)
+Enter Image Path: data/obj/img/frame60.png: Predicted in 61.543000 milli-seconds.
+Tom: 99%	(left_x:  699   top_y:  249   width:  187   height:  150)
+Enter Image Path: data/obj/img/frame61.png: Predicted in 61.026000 milli-seconds.
+Tom: 99%	(left_x:  734   top_y:  140   width:  191   height:  133)
+Enter Image Path: data/obj/img/frame62.png: Predicted in 61.338000 milli-seconds.
+Tom: 100%	(left_x:  483   top_y:  168   width:   91   height:   72)
+Jerry: 98%	(left_x:  912   top_y:  360   width:  202   height:  204)
+Enter Image Path: data/obj/img/frame63.png: Predicted in 60.964000 milli-seconds.
+Jerry: 98%	(left_x:  394   top_y:  206   width:  150   height:  100)
+Enter Image Path: data/obj/img/frame64.png: Predicted in 61.346000 milli-seconds.
+Jerry: 98%	(left_x:  394   top_y:  207   width:  149   height:  100)
+Enter Image Path: data/obj/img/frame65.png: Predicted in 61.059000 milli-seconds.
+Tom: 100%	(left_x:  503   top_y:   52   width:  118   height:  100)
+Enter Image Path: data/obj/img/frame66.png: Predicted in 60.848000 milli-seconds.
+Tom: 96%	(left_x:  471   top_y:    6   width:  162   height:  101)
+Enter Image Path: data/obj/img/frame67.png: Predicted in 61.514000 milli-seconds.
+Jerry: 98%	(left_x:  946   top_y:  226   width:  185   height:  236)
+Enter Image Path: data/obj/img/frame68.png: Predicted in 61.462000 milli-seconds.
+Jerry: 99%	(left_x: 1025   top_y:  269   width:  248   height:  250)
+Enter Image Path: data/obj/img/frame69.png: Predicted in 61.348000 milli-seconds.
+Tom: 94%	(left_x:  574   top_y:   60   width:  139   height:  138)
+Enter Image Path: data/obj/img/frame7.png: Predicted in 61.159000 milli-seconds.
+Tom: 52%	(left_x:  707   top_y:  453   width:  219   height:  156)
+Enter Image Path: data/obj/img/frame70.png: Predicted in 61.253000 milli-seconds.
+Tom: 88%	(left_x:  508   top_y:   43   width:  159   height:  123)
+Enter Image Path: data/obj/img/frame71.png: Predicted in 61.287000 milli-seconds.
+Tom: 99%	(left_x:  880   top_y:  182   width:  269   height:  257)
+Enter Image Path: data/obj/img/frame72.png: Predicted in 61.407000 milli-seconds.
+Tom: 99%	(left_x:  716   top_y:  208   width:  226   height:  211)
+Enter Image Path: data/obj/img/frame73.png: Predicted in 61.556000 milli-seconds.
+Enter Image Path: data/obj/img/frame74.png: Predicted in 60.990000 milli-seconds.
+Enter Image Path: data/obj/img/frame75.png: Predicted in 61.616000 milli-seconds.
+Enter Image Path: data/obj/img/frame76.png: Predicted in 64.360000 milli-seconds.
+Enter Image Path: data/obj/img/frame77.png: Predicted in 65.970000 milli-seconds.
+Enter Image Path: data/obj/img/frame78.png: Predicted in 66.874000 milli-seconds.
+Jerry: 97%	(left_x:  108   top_y:   -4   width:  252   height:  191)
+Enter Image Path: data/obj/img/frame79.png: Predicted in 66.900000 milli-seconds.
+Enter Image Path: data/obj/img/frame8.png: Predicted in 64.791000 milli-seconds.
+Tom: 100%	(left_x:  382   top_y:  451   width:  310   height:  178)
+Enter Image Path: data/obj/img/frame80.png: Predicted in 61.388000 milli-seconds.
+Tom: 100%	(left_x:  666   top_y:  222   width:  376   height:  412)
+Enter Image Path: data/obj/img/frame81.png: Predicted in 63.270000 milli-seconds.
+Tom: 100%	(left_x:  583   top_y:  419   width:  220   height:  186)
+Enter Image Path: data/obj/img/frame82.png: Predicted in 61.619000 milli-seconds.
+Enter Image Path: data/obj/img/frame83.png: Predicted in 60.840000 milli-seconds.
+Tom: 98%	(left_x:  615   top_y:  205   width:  287   height:  232)
+Enter Image Path: data/obj/img/frame84.png: Predicted in 60.914000 milli-seconds.
+Tom: 100%	(left_x:  569   top_y:  449   width:  220   height:  216)
+Enter Image Path: data/obj/img/frame85.png: Predicted in 61.570000 milli-seconds.
+Jerry: 99%	(left_x:  633   top_y:  256   width:  243   height:  174)
+Enter Image Path: data/obj/img/frame86.png: Predicted in 61.524000 milli-seconds.
+Enter Image Path: data/obj/img/frame87.png: Predicted in 61.538000 milli-seconds.
+Jerry: 98%	(left_x:  816   top_y:  233   width:  178   height:  157)
+Enter Image Path: data/obj/img/frame88.png: Predicted in 61.171000 milli-seconds.
+Tom: 100%	(left_x:  303   top_y:  240   width:  227   height:  256)
+Jerry: 97%	(left_x: 1029   top_y:  406   width:  130   height:  123)
+Enter Image Path: data/obj/img/frame89.png: Predicted in 61.944000 milli-seconds.
+Tom: 98%	(left_x:  376   top_y:   51   width:  216   height:  216)
+Jerry: 94%	(left_x:  808   top_y:  385   width:  135   height:   99)
+Enter Image Path: data/obj/img/frame9.png: Predicted in 61.140000 milli-seconds.
+Tom: 99%	(left_x:  435   top_y:  449   width:  289   height:  182)
+Enter Image Path: data/obj/img/frame90.png: Predicted in 61.488000 milli-seconds.
+Tom: 98%	(left_x:  373   top_y:  244   width:  216   height:  223)
+Jerry: 93%	(left_x:  791   top_y:  457   width:  110   height:   91)
+Enter Image Path: data/obj/img/frame91.png: Predicted in 61.107000 milli-seconds.
+Tom: 99%	(left_x:  331   top_y:  309   width:  281   height:  293)
+Jerry: 98%	(left_x:  919   top_y:  433   width:  216   height:  195)
+Enter Image Path: data/obj/img/frame92.png: Predicted in 61.455000 milli-seconds.
+Enter Image Path: data/obj/img/frame93.png: Predicted in 61.627000 milli-seconds.
+Tom: 93%	(left_x:   96   top_y:  398   width:  153   height:  163)
+Jerry: 96%	(left_x:  353   top_y:  503   width:   90   height:   72)
+Enter Image Path: data/obj/img/frame94.png: Predicted in 61.194000 milli-seconds.
+Tom: 88%	(left_x:   92   top_y:  120   width:  162   height:  158)
+Enter Image Path: data/obj/img/frame95.png: Predicted in 61.484000 milli-seconds.
+Enter Image Path: data/obj/img/frame96.png: Predicted in 61.401000 milli-seconds.
+Jerry: 98%	(left_x:    8   top_y:   60   width:  201   height:  291)
+Enter Image Path: data/obj/img/frame97.png: Predicted in 61.790000 milli-seconds.
+Enter Image Path: data/obj/img/frame98.png: Predicted in 60.769000 milli-seconds.
+Enter Image Path: data/obj/img/frame99.png: Predicted in 60.997000 milli-seconds.
+Tom: 100%	(left_x:  412   top_y:  204   width:  212   height:  162)
+Enter Image Path: 
